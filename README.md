@@ -28,7 +28,7 @@ Outputs include:
 
 ---
 
-##How to Simulate in Vivado
+## How to Simulate in Vivado
 
 1. Open **Xilinx Vivado**
 2. Create a new **Project**
