@@ -64,7 +64,8 @@ Outputs include:
 │ └── sim_1/
 │ └── new/
 │ └── traffic_light_tb.v # Testbench for simulation
-├── Traffic Light Controller.xpr # Vivado project file ```
+├── Traffic Light Controller.xpr # Vivado project file
+```
 
 ## Simulation Result
 
